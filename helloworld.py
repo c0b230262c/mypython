@@ -1,1 +1,1 @@
-Hello World
+pinrt(Hello World)
